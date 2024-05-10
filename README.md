@@ -43,7 +43,8 @@ y_test
 #Graph plot for training data
 plt.scatter(x_train,y_train,color='black')
 plt.plot(x_train,regressor.predict(x_train),color='purple')
-plt.title("Hours vs Scores(Training set)")
+plt.title("Hours vs Scores(![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/8f082992-f1d2-4db0-8a7e-4404d5864276)
+Training set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
@@ -63,15 +64,17 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/f57c5741-5bf7-44a7-92cb-6d40d0d4e5bb)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/1ee34ef2-f36e-4f6d-9356-e2c608133741)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/484f0a02-ac5f-4093-81f3-9ca6cec468cd)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/125d37c0-9fc4-4802-8904-c64ef4e951a4)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/1d374e1a-a60f-4354-b983-fb694b864851)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/4e5cbb2e-3ec3-44a0-b25c-cf79b9fd3fd3)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/374bb950-1513-432f-a9ba-1c83ed142c74)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/1d2ab0d1-90a8-48a1-9ced-177739c3d573)
-![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/861f9bd7-e913-4ef5-8887-ed1261a9e8d8)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/049ac67d-661d-4ca8-8380-09a9931022e2)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/580b6674-cd0e-4b50-b059-51fdc7fab9f3)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/30558100-c922-4e47-9733-fe2e885ccbb5)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/8b0dedb4-ff83-4ebc-af09-38258e5f143b)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/64cc2161-3329-4b2d-9739-9cf7d739cd03)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/9add5b59-0846-4751-82b6-befa0cd6b18c)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/4a7a2271-c4b2-414b-8e19-80742b4df57d)
+![image](https://github.com/Murali-Krishna0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149054535/827b7106-0c46-403e-913d-574c59536887)
+
+
+
 
 
 
